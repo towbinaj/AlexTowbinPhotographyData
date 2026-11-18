@@ -33,6 +33,10 @@ Written by the site's editor and the phone editor app (`/edit/`).
   at most one collection.
 - `highlights`: photos featured on the main page.
 - `tags`: the tag library. `photo_tags` may only use names from it.
+- `hidden` / `published` / `drafts_from`: what shows on the site. Photos
+  added to the album at or after `drafts_from` start hidden until released
+  (`published`); `hidden` pulls a photo back. Hidden photos are left off the
+  site but are not private (their image files still exist on it).
 - `locations`: one place per photo, at **city**, **region** (state) or
   **country** level only, from the GeoNames list built into the editor
   (`gid` is the GeoNames id). Never coordinates.
