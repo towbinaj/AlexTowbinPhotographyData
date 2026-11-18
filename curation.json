@@ -39,7 +39,8 @@
         "ee02af51af38",
         "c63f487671d8",
         "b347a5f17385",
-        "4880a14143ce"
+        "4880a14143ce",
+        "80692a1db1a2"
       ]
     }
   ],
@@ -48,12 +49,18 @@
     "Bicycle",
     "Street",
     "Decay",
-    "Graffiti"
+    "Graffiti",
+    "B&W"
   ],
   "photo_tags": {
     "4880a14143ce": [
       "Graffiti",
       "Street"
+    ],
+    "80692a1db1a2": [
+      "Bicycle",
+      "Street",
+      "B&W"
     ],
     "b347a5f17385": [
       "Decay"
