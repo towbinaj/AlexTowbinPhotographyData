@@ -157,6 +157,13 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "4caa38466401": {
+      "level": "city",
+      "gid": 6691831,
+      "city": "Vatican City",
+      "country": "Vatican",
+      "cc": "VA"
+    },
     "5369432f0c96": {
       "level": "city",
       "gid": 3176959,
@@ -172,6 +179,13 @@
       "region": "Lazio",
       "country": "Italy",
       "cc": "IT"
+    },
+    "5e53df74aa91": {
+      "level": "city",
+      "gid": 6691831,
+      "city": "Vatican City",
+      "country": "Vatican",
+      "cc": "VA"
     },
     "601a4f9dc99f": {
       "level": "city",
@@ -269,6 +283,13 @@
       "country": "France",
       "cc": "FR"
     },
+    "aad65cfe580b": {
+      "level": "city",
+      "gid": 6691831,
+      "city": "Vatican City",
+      "country": "Vatican",
+      "cc": "VA"
+    },
     "b091dcc3b2a2": {
       "level": "city",
       "gid": 3169070,
@@ -292,6 +313,13 @@
       "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
+    },
+    "c2a3d3511d78": {
+      "level": "city",
+      "gid": 6691831,
+      "city": "Vatican City",
+      "country": "Vatican",
+      "cc": "VA"
     },
     "c2b2837d8d7e": {
       "level": "city",
