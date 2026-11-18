@@ -41,7 +41,8 @@
         "b347a5f17385",
         "4880a14143ce",
         "80692a1db1a2",
-        "a9cc0f45b2e3"
+        "a9cc0f45b2e3",
+        "66c07a7d03b6"
       ]
     }
   ],
@@ -58,6 +59,9 @@
     "4880a14143ce": [
       "Graffiti",
       "Street"
+    ],
+    "66c07a7d03b6": [
+      "Airport"
     ],
     "80692a1db1a2": [
       "Bicycle",
@@ -79,6 +83,14 @@
     ]
   },
   "locations": {
+    "66c07a7d03b6": {
+      "level": "city",
+      "gid": 2988507,
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
     "a9cc0f45b2e3": {
       "level": "city",
       "gid": 2988507,
