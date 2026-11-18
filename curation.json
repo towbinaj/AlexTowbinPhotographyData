@@ -40,7 +40,8 @@
         "c63f487671d8",
         "b347a5f17385",
         "4880a14143ce",
-        "80692a1db1a2"
+        "80692a1db1a2",
+        "a9cc0f45b2e3"
       ]
     }
   ],
@@ -50,7 +51,8 @@
     "Street",
     "Decay",
     "Graffiti",
-    "B&W"
+    "B&W",
+    "Airport"
   ],
   "photo_tags": {
     "4880a14143ce": [
@@ -61,6 +63,9 @@
       "Bicycle",
       "Street",
       "B&W"
+    ],
+    "a9cc0f45b2e3": [
+      "Airport"
     ],
     "b347a5f17385": [
       "Decay"
@@ -74,6 +79,14 @@
     ]
   },
   "locations": {
+    "a9cc0f45b2e3": {
+      "level": "city",
+      "gid": 2988507,
+      "city": "Paris",
+      "region": "Île-de-France",
+      "country": "France",
+      "cc": "FR"
+    },
     "ee02af51af38": {
       "level": "city",
       "gid": 3176959,
