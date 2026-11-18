@@ -85,7 +85,8 @@
     "Airport",
     "Architecture",
     "Window",
-    "Stairs"
+    "Stairs",
+    "Shadow"
   ],
   "photo_tags": {
     "09b6f2d1bd14": [
@@ -118,6 +119,10 @@
     "5369432f0c96": [
       "B&W",
       "Street"
+    ],
+    "5c92186e44ec": [
+      "Architecture",
+      "Shadow"
     ],
     "5e53df74aa91": [
       "Architecture"
