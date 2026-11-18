@@ -109,6 +109,30 @@
     ]
   },
   "locations": {
+    "09b6f2d1bd14": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "0e53943d5cc2": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "15d03e55cbc4": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "43227ec7f860": {
       "level": "city",
       "gid": 3176959,
@@ -125,11 +149,59 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "4a4f49903e7f": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "5369432f0c96": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
       "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "5c92186e44ec": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "601a4f9dc99f": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "63f8cc6c1ecd": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "65c03d184386": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "66870a9cce23": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
       "country": "Italy",
       "cc": "IT"
     },
@@ -141,11 +213,51 @@
       "country": "France",
       "cc": "FR"
     },
+    "71c9469608f6": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "7419e3a2fb6a": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "80692a1db1a2": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
       "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "84c1f3e42e76": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "9a30c4e6fc95": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "9bb00f100204": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
       "country": "Italy",
       "cc": "IT"
     },
@@ -156,6 +268,14 @@
       "region": "Île-de-France",
       "country": "France",
       "cc": "FR"
+    },
+    "b091dcc3b2a2": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
     },
     "b22c725aab60": {
       "level": "city",
@@ -173,11 +293,35 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "c2b2837d8d7e": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "c63f487671d8": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
       "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "c7f2acc7db5e": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "ddef2e87b9d3": {
+      "level": "city",
+      "gid": 3169070,
+      "city": "Rome",
+      "region": "Lazio",
       "country": "Italy",
       "cc": "IT"
     },
