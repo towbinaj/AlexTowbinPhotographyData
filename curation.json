@@ -36,7 +36,8 @@
     {
       "name": "Italy 2026",
       "photos": [
-        "ee02af51af38"
+        "ee02af51af38",
+        "c63f487671d8"
       ]
     }
   ],
@@ -46,6 +47,9 @@
     "Street"
   ],
   "photo_tags": {
+    "c63f487671d8": [
+      "Street"
+    ],
     "ee02af51af38": [
       "Bicycle",
       "Street"
