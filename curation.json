@@ -32,6 +32,33 @@
     "ee02af51af38": "This Way"
   },
   "order": [],
-  "collections": [],
-  "highlights": []
+  "collections": [
+    {
+      "name": "Italy 2026",
+      "photos": [
+        "ee02af51af38"
+      ]
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "Bicycle",
+    "Street"
+  ],
+  "photo_tags": {
+    "ee02af51af38": [
+      "Bicycle",
+      "Street"
+    ]
+  },
+  "locations": {
+    "ee02af51af38": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    }
+  }
 }
