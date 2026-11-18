@@ -82,7 +82,9 @@
     "Decay",
     "Graffiti",
     "B&W",
-    "Airport"
+    "Airport",
+    "Architecture",
+    "Window"
   ],
   "photo_tags": {
     "43227ec7f860": [
@@ -92,6 +94,10 @@
     "4880a14143ce": [
       "Graffiti",
       "Street"
+    ],
+    "4a4f49903e7f": [
+      "Architecture",
+      "Window"
     ],
     "5369432f0c96": [
       "B&W",
