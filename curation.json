@@ -285,6 +285,38 @@
     ]
   },
   "locations": {
+    "008f5cc5e499": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "03f89fb1ba00": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "0518fee63233": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "096fa093bc3e": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "09b6f2d1bd14": {
       "level": "city",
       "gid": 3169070,
@@ -301,6 +333,22 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "10f3227c77c3": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "11f45b736df0": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "15d03e55cbc4": {
       "level": "city",
       "gid": 3169070,
@@ -309,7 +357,103 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "16db75a9b78d": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "1994bc0a8ea6": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "19b9671af6b9": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "1d0ad5a6b0d5": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "1d94b58debf3": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "21b44c06f382": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "28dcf6dbcd6a": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "38b504e92bb8": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "3920b0cd9d9d": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "3a54b3dfef20": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "3d0a28dd995d": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "43227ec7f860": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "481300d11b23": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
@@ -325,11 +469,35 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "4999a89d33bf": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "4a0bdd840da2": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "4a4f49903e7f": {
       "level": "city",
       "gid": 3169070,
       "city": "Rome",
       "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "4b6cc06f530a": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
     },
@@ -340,7 +508,39 @@
       "country": "Vatican",
       "cc": "VA"
     },
+    "4d78590c778f": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "5369432f0c96": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "57b1672e7ed1": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "5802f19db43b": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "5c4c55bb95b4": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
@@ -368,6 +568,30 @@
       "gid": 3169070,
       "city": "Rome",
       "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "6206077936d5": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "62c6c963c167": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "63205995b50c": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
     },
@@ -403,11 +627,43 @@
       "country": "France",
       "cc": "FR"
     },
+    "68159d3ae91d": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "6fd26462df17": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "71c9469608f6": {
       "level": "city",
       "gid": 3169070,
       "city": "Rome",
       "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "73871442f129": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "73be32bed51b": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
     },
@@ -419,7 +675,39 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "7646c2d567db": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "7a304c6f255a": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "7bf2b1516a95": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "80692a1db1a2": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "813e9479a341": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
@@ -432,6 +720,62 @@
       "gid": 3169070,
       "city": "Rome",
       "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "8727959a1b9c": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "8a7d449e9be5": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "8b1b20c133ef": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "8bab42649854": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "93f7e895896d": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "96a2acaf3991": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "98536196cd0e": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
     },
@@ -451,6 +795,22 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "9cfac2251b8b": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "a23d298b91e1": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "a9cc0f45b2e3": {
       "level": "city",
       "gid": 2988507,
@@ -466,11 +826,27 @@
       "country": "Vatican",
       "cc": "VA"
     },
+    "ad9748b2490a": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "b091dcc3b2a2": {
       "level": "city",
       "gid": 3169070,
       "city": "Rome",
       "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "b0a3aa74d105": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
     },
@@ -483,6 +859,30 @@
       "cc": "IT"
     },
     "b347a5f17385": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "bb8fad08af06": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "bcdfbc05194b": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "bf0088243679": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
@@ -505,7 +905,23 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "c3473f55ce91": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "c63f487671d8": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "c7a773a057a3": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
@@ -518,6 +934,70 @@
       "gid": 3169070,
       "city": "Rome",
       "region": "Lazio",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "cba9399d4bb2": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "cf9d391b8995": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "d0461e0fa5ab": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "d0a732066af1": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "d3566242d5ca": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "d43cba57d60f": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "d46ebce3a64f": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "dafe019fe634": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
     },
@@ -537,6 +1017,30 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "e3d21b510e09": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "eae65105981f": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "eb7b253d90a0": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "ee02af51af38": {
       "level": "city",
       "gid": 3176959,
@@ -545,7 +1049,39 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "f45cd61bbda4": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "f4a5c54be8ed": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
     "f98a9f4ed079": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "fb02deb9f25d": {
+      "level": "city",
+      "gid": 3176959,
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "cc": "IT"
+    },
+    "feb5f7e8f278": {
       "level": "city",
       "gid": 3176959,
       "city": "Florence",
