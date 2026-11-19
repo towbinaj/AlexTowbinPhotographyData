@@ -19,6 +19,7 @@
     "7419e3a2fb6a": "Open Question",
     "80692a1db1a2": "Restrained",
     "84c1f3e42e76": "Unlimited Vision",
+    "96a2acaf3991": "Fragmented Identity",
     "9a30c4e6fc95": "Strange Anonymity",
     "9bb00f100204": "Apart",
     "a9cc0f45b2e3": "Rectilinear Intrusion",
@@ -257,6 +258,11 @@
     ],
     "84c1f3e42e76": [
       "Architecture"
+    ],
+    "96a2acaf3991": [
+      "Decay",
+      "Graffiti",
+      "Street"
     ],
     "9a30c4e6fc95": [
       "B&W",
@@ -1122,6 +1128,8 @@
     }
   },
   "hidden": [],
-  "published": [],
+  "published": [
+    "96a2acaf3991"
+  ],
   "drafts_from": "2026-11-18T16:30:00Z"
 }
