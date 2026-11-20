@@ -8,6 +8,7 @@
     "4a4f49903e7f": "Restricted / Invited",
     "4caa38466401": "Increasingly Disconnected",
     "5369432f0c96": "Unexpected Departure",
+    "57b1672e7ed1": "Competing Rhythm",
     "5c92186e44ec": "Against the Procession",
     "5e53df74aa91": "Constrained",
     "601a4f9dc99f": "Dusk Approaching",
@@ -233,6 +234,9 @@
     "5369432f0c96": [
       "B&W",
       "Street"
+    ],
+    "57b1672e7ed1": [
+      "Architecture"
     ],
     "5c92186e44ec": [
       "Architecture",
@@ -1143,7 +1147,8 @@
   },
   "hidden": [],
   "published": [
-    "96a2acaf3991"
+    "96a2acaf3991",
+    "57b1672e7ed1"
   ],
   "drafts_from": "2026-11-18T16:30:00Z"
 }
