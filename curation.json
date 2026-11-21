@@ -35,7 +35,8 @@
     "ddef2e87b9d3": "Projected Opening",
     "dfc60498ec7e": "Escape",
     "ee02af51af38": "This Way",
-    "f98a9f4ed079": "Accumulated History"
+    "f98a9f4ed079": "Accumulated History",
+    "feb5f7e8f278": "Psychological Weight"
   },
   "order": [],
   "collections": [
@@ -337,6 +338,10 @@
       "B&W",
       "Street",
       "Decay"
+    ],
+    "feb5f7e8f278": [
+      "Architecture",
+      "Window"
     ]
   },
   "locations": {
@@ -1148,7 +1153,8 @@
   "hidden": [],
   "published": [
     "96a2acaf3991",
-    "57b1672e7ed1"
+    "57b1672e7ed1",
+    "feb5f7e8f278"
   ],
   "drafts_from": "2026-11-18T16:30:00Z"
 }
