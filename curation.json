@@ -31,6 +31,7 @@
     "c2a3d3511d78": "Overwhelming",
     "c2b2837d8d7e": "Towards",
     "c63f487671d8": "Passerby",
+    "c7a773a057a3": "Boundless",
     "c7f2acc7db5e": "Shine a Light",
     "ddef2e87b9d3": "Projected Opening",
     "dfc60498ec7e": "Escape",
@@ -450,6 +451,10 @@
     "c63f487671d8": [
       "Street",
       "B&W"
+    ],
+    "c7a773a057a3": [
+      "Architecture",
+      "Window"
     ],
     "c7f2acc7db5e": [
       "B&W",
@@ -2335,7 +2340,8 @@
   "published": [
     "96a2acaf3991",
     "57b1672e7ed1",
-    "feb5f7e8f278"
+    "feb5f7e8f278",
+    "c7a773a057a3"
   ],
   "drafts_from": "2026-11-18T16:30:00Z"
 }
