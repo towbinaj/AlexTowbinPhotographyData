@@ -1,5 +1,6 @@
 {
   "titles": {
+    "008f5cc5e499": "Quiet Transcendence",
     "09b6f2d1bd14": "Negotiating Escape",
     "0e53943d5cc2": "Suspended Emotion",
     "15d03e55cbc4": "Remnants",
@@ -324,7 +325,8 @@
     "4caa38466401",
     "c7f2acc7db5e",
     "9bb00f100204",
-    "3a54b3dfef20"
+    "3a54b3dfef20",
+    "008f5cc5e499"
   ],
   "tags": [
     "Bicycle",
@@ -339,6 +341,9 @@
     "Shadow"
   ],
   "photo_tags": {
+    "008f5cc5e499": [
+      "Architecture"
+    ],
     "09b6f2d1bd14": [
       "Stairs",
       "Architecture"
@@ -2348,7 +2353,8 @@
     "57b1672e7ed1",
     "feb5f7e8f278",
     "c7a773a057a3",
-    "3a54b3dfef20"
+    "3a54b3dfef20",
+    "008f5cc5e499"
   ],
   "drafts_from": "2026-11-18T16:30:00Z"
 }
