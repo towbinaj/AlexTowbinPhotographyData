@@ -25,6 +25,7 @@
     "96a2acaf3991": "Fragmented Identity",
     "9a30c4e6fc95": "Strange Anonymity",
     "9bb00f100204": "Apart",
+    "a23d298b91e1": "Uncertain Progression",
     "a9cc0f45b2e3": "Rectilinear Intrusion",
     "aad65cfe580b": "Possibility",
     "b091dcc3b2a2": "Equally Substantial",
@@ -433,6 +434,11 @@
     "9bb00f100204": [
       "B&W",
       "Street"
+    ],
+    "a23d298b91e1": [
+      "Architecture",
+      "Window",
+      "Stairs"
     ],
     "a9cc0f45b2e3": [
       "Airport",
@@ -2354,7 +2360,8 @@
     "feb5f7e8f278",
     "c7a773a057a3",
     "3a54b3dfef20",
-    "008f5cc5e499"
+    "008f5cc5e499",
+    "a23d298b91e1"
   ],
   "drafts_from": "2026-11-18T16:30:00Z"
 }
