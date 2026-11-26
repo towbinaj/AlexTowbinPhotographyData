@@ -2369,6 +2369,14 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "d200a7837dda": {
+      "level": "city",
+      "gid": 264371,
+      "city": "Athens",
+      "region": "Attica",
+      "country": "Greece",
+      "cc": "GR"
+    },
     "d353ed8feaf9": {
       "level": "region",
       "code": "KR.11",
