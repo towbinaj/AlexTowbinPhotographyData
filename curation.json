@@ -1923,6 +1923,13 @@
       "country": "Greece",
       "cc": "GR"
     },
+    "86d4d96e53c3": {
+      "level": "region",
+      "code": "GR.ESYE43",
+      "region": "Crete",
+      "country": "Greece",
+      "cc": "GR"
+    },
     "8727959a1b9c": {
       "level": "city",
       "gid": 3176959,
