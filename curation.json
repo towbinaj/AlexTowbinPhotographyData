@@ -4,6 +4,7 @@
     "09b6f2d1bd14": "Negotiating Escape",
     "0e53943d5cc2": "Suspended Emotion",
     "15d03e55cbc4": "Remnants",
+    "19b9671af6b9": "Temporary Architecture",
     "3a54b3dfef20": "Rebirth",
     "43227ec7f860": "Persistence",
     "4880a14143ce": "Reality",
@@ -355,6 +356,10 @@
     "15d03e55cbc4": [
       "Decay",
       "Graffiti"
+    ],
+    "19b9671af6b9": [
+      "Architecture",
+      "Shadow"
     ],
     "3a54b3dfef20": [
       "Street",
@@ -2361,7 +2366,8 @@
     "c7a773a057a3",
     "3a54b3dfef20",
     "008f5cc5e499",
-    "a23d298b91e1"
+    "a23d298b91e1",
+    "19b9671af6b9"
   ],
   "drafts_from": "2026-11-18T16:30:00Z",
   "off_work": [
@@ -2371,6 +2377,7 @@
     "aad65cfe580b",
     "ddef2e87b9d3",
     "a9cc0f45b2e3",
-    "9a30c4e6fc95"
+    "9a30c4e6fc95",
+    "19b9671af6b9"
   ]
 }
