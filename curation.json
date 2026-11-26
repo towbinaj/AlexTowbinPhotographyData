@@ -731,6 +731,13 @@
       "country": "Singapore",
       "cc": "SG"
     },
+    "1c3ec83dfb51": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
     "1c6a6193b516": {
       "level": "city",
       "gid": 1880252,
@@ -875,6 +882,13 @@
       "country": "Singapore",
       "cc": "SG"
     },
+    "35ffcafd2fd4": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
     "36af3cbbddfc": {
       "level": "city",
       "gid": 1880252,
@@ -985,6 +999,13 @@
       "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
+    },
+    "48632ebb774e": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
     },
     "4880a14143ce": {
       "level": "city",
@@ -1314,6 +1335,13 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "68167bcb95e0": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
     "68f1e4fd6cad": {
       "level": "region",
       "code": "KR.11",
@@ -1335,6 +1363,13 @@
       "country": "Singapore",
       "cc": "SG"
     },
+    "6d227f062e16": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
     "6de9689c247a": {
       "level": "city",
       "gid": 1880252,
@@ -1343,6 +1378,13 @@
       "cc": "SG"
     },
     "6e82f802abfc": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "6f6983a8d404": {
       "level": "region",
       "code": "KR.11",
       "region": "Seoul",
@@ -1527,6 +1569,13 @@
       "region": "Lazio",
       "country": "Italy",
       "cc": "IT"
+    },
+    "86799263bfe0": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
     },
     "8727959a1b9c": {
       "level": "city",
@@ -1848,6 +1897,13 @@
       "country": "Singapore",
       "cc": "SG"
     },
+    "ad58620f91a8": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
     "ad932a4a2c0c": {
       "level": "city",
       "gid": 1880252,
@@ -1901,6 +1957,13 @@
       "region": "Tuscany",
       "country": "Italy",
       "cc": "IT"
+    },
+    "b367de3c7475": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
     },
     "b39d46456bc8": {
       "level": "city",
@@ -2033,6 +2096,13 @@
       "city": "Singapore",
       "country": "Singapore",
       "cc": "SG"
+    },
+    "c740a2dc637d": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
     },
     "c7a773a057a3": {
       "level": "city",
@@ -2213,6 +2283,13 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "deb22e78f661": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
     "dfc60498ec7e": {
       "level": "city",
       "gid": 3176959,
@@ -2315,6 +2392,20 @@
       "city": "Singapore",
       "country": "Singapore",
       "cc": "SG"
+    },
+    "f0fa37c8ed2c": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
+    },
+    "f2977dd2ca93": {
+      "level": "region",
+      "code": "KR.11",
+      "region": "Seoul",
+      "country": "South Korea",
+      "cc": "KR"
     },
     "f45cd61bbda4": {
       "level": "city",
