@@ -1827,6 +1827,13 @@
       "country": "South Korea",
       "cc": "KR"
     },
+    "0b1674da6954": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "0b4ec90648cc": {
       "level": "region",
       "code": "GR.ESYE43",
@@ -2338,6 +2345,13 @@
       "country": "Greece",
       "cc": "GR"
     },
+    "24baec42e02b": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "250284c3ebb5": {
       "level": "city",
       "gid": 252919,
@@ -2447,6 +2461,13 @@
       "country": "South Korea",
       "cc": "KR"
     },
+    "2a20daaaef13": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "2a65a4e84374": {
       "level": "region",
       "code": "GR.ESYE43",
@@ -2513,6 +2534,13 @@
       "region": "Seoul",
       "country": "South Korea",
       "cc": "KR"
+    },
+    "2fad6e0de709": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "304de3590d36": {
       "level": "city",
@@ -2698,6 +2726,13 @@
       "country": "Singapore",
       "cc": "SG"
     },
+    "372f85a9d7de": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "3749a89912b3": {
       "level": "city",
       "gid": 252919,
@@ -2854,6 +2889,13 @@
       "region": "South Aegean",
       "country": "Greece",
       "cc": "GR"
+    },
+    "3fd3b14db796": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "4017fe6a8cdf": {
       "level": "city",
@@ -3058,6 +3100,13 @@
       "country": "Greece",
       "cc": "GR"
     },
+    "48db18f67107": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "4940ab40f7a9": {
       "level": "region",
       "code": "GR.ESYE43",
@@ -3227,6 +3276,13 @@
       "region": "Seoul",
       "country": "South Korea",
       "cc": "KR"
+    },
+    "5233ff1be6d6": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "52ca835736d9": {
       "level": "city",
@@ -3688,6 +3744,13 @@
       "country": "Greece",
       "cc": "GR"
     },
+    "64ca262bbae1": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "6518fdfe6fa9": {
       "level": "city",
       "gid": 1880252,
@@ -4038,6 +4101,13 @@
       "city": "Singapore",
       "country": "Singapore",
       "cc": "SG"
+    },
+    "722ab6637bc7": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "722cafcb17bf": {
       "level": "city",
@@ -4691,6 +4761,13 @@
       "country": "Greece",
       "cc": "GR"
     },
+    "8d37b1bdaef5": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "8d8f24996a5e": {
       "level": "city",
       "gid": 252919,
@@ -4868,6 +4945,13 @@
       "country": "Greece",
       "cc": "GR"
     },
+    "943b4f789ad8": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "9464368e1239": {
       "level": "region",
       "code": "KR.11",
@@ -4912,6 +4996,13 @@
       "region": "South Aegean",
       "country": "Greece",
       "cc": "GR"
+    },
+    "96fa9b481639": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "975f1dbbacb3": {
       "level": "city",
@@ -4998,6 +5089,13 @@
       "region": "South Aegean",
       "country": "Greece",
       "cc": "GR"
+    },
+    "9ba1b76b662d": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "9bb00f100204": {
       "level": "city",
@@ -5397,6 +5495,13 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "add88e2c7a81": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "ae445367cb17": {
       "level": "city",
       "gid": 256952,
@@ -5528,6 +5633,13 @@
       "city": "Singapore",
       "country": "Singapore",
       "cc": "SG"
+    },
+    "b4476c74239b": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "b476a81d5240": {
       "level": "city",
@@ -5744,6 +5856,13 @@
       "region": "South Aegean",
       "country": "Greece",
       "cc": "GR"
+    },
+    "c1b63b9b26c9": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "c2a3d3511d78": {
       "level": "city",
@@ -6005,6 +6124,13 @@
       "country": "Greece",
       "cc": "GR"
     },
+    "ce6dffa82108": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "ce8fcfed9191": {
       "level": "city",
       "gid": 1880252,
@@ -6018,6 +6144,13 @@
       "region": "Crete",
       "country": "Greece",
       "cc": "GR"
+    },
+    "cf88dd5e7043": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "cf9d391b8995": {
       "level": "city",
@@ -6089,6 +6222,13 @@
       "region": "South Aegean",
       "country": "Greece",
       "cc": "GR"
+    },
+    "d320dc6cdfd6": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "d353ed8feaf9": {
       "level": "region",
@@ -6621,6 +6761,13 @@
       "city": "Singapore",
       "country": "Singapore",
       "cc": "SG"
+    },
+    "e9082f60079d": {
+      "level": "region",
+      "code": "GB.SCT",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
     },
     "e91b985edb84": {
       "level": "region",
