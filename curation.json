@@ -6183,6 +6183,14 @@
       "country": "Italy",
       "cc": "IT"
     },
+    "d164885da2de": {
+      "level": "city",
+      "gid": 2650225,
+      "city": "Edinburgh",
+      "region": "Scotland",
+      "country": "United Kingdom",
+      "cc": "GB"
+    },
     "d1ce50e7a4d3": {
       "level": "city",
       "gid": 256952,
