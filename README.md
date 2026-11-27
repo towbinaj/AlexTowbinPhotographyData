@@ -28,7 +28,8 @@ You don't need to edit it by hand. The phone editor app
   "published":   ["<photo id>", "..."],
   "drafts_from": "2026-11-18T16:45:00Z",
   "on_work":     ["<photo id>", "..."],
-  "off_work":    ["<photo id>", "..."]
+  "off_work":    ["<photo id>", "..."],
+  "no_place":    ["<photo id>", "..."]
 }
 ```
 
@@ -47,6 +48,10 @@ You don't need to edit it by hand. The phone editor app
   released (`published`). Since then the site is **site-first**: new photos
   show right away. `hidden` pulls a photo back. Hidden photos are left off
   the site but are not private (their image files still exist).
+- **Automatic places:** photos whose file has GPS get their nearest town or
+  island automatically (worked out by the site's build; the coordinates are
+  never stored). A place in `locations` always wins; `no_place` lists photos
+  whose location was removed, so they get no automatic place either.
 - **On Work page** (`on_work` / `off_work`): photos added after 2026-11-26
   are off the Work page's full list until ticked (`on_work`); `off_work`
   takes a photo off. Photos off Work still show in their collection, as
