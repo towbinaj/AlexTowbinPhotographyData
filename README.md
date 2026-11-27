@@ -1,18 +1,18 @@
 # AlexTowbinPhotographyData
 
-Photo titles and order for
-[Alex Towbin Photography](https://towbinaj.github.io/AlexTowbinPhotography/).
+Photo titles, order, collections and other choices for
+[Alex Towbin Photography](https://photo.alextowbin.com/).
 The site's code lives in
 [towbinaj/AlexTowbinPhotography](https://github.com/towbinaj/AlexTowbinPhotography).
 
 This repo is kept separate on purpose: the owner's editing key only has
 access to this repo, so it can never change the site's code, its build, or
-its secrets. Everything here is public (titles are shown on the site anyway).
+its secrets. Everything here is public (it only holds what the site shows
+anyway, plus which photos are hidden).
 
 ## `curation.json`
-You don't need to edit it by hand.
-
-Written by the site's editor and the phone editor app (`/edit/`).
+You don't need to edit it by hand. The phone editor app
+(https://photo.alextowbin.com/edit/) writes it; every save is a commit here.
 
 ```json
 {
@@ -22,25 +22,37 @@ Written by the site's editor and the phone editor app (`/edit/`).
   "highlights":  ["<photo id>", "..."],
   "tags":        ["Street", "..."],
   "photo_tags":  { "<photo id>": ["Street", "..."] },
-  "locations":   { "<photo id>": { "level": "city", "gid": 3176959, "city": "Florence",
-                                   "region": "Tuscany", "country": "Italy", "cc": "IT" } }
+  "locations":   { "<photo id>": { "level": "city", "gid": 261745, "city": "Heraklion",
+                                   "region": "Crete", "country": "Greece", "cc": "GR" } },
+  "hidden":      ["<photo id>", "..."],
+  "published":   ["<photo id>", "..."],
+  "drafts_from": "2026-11-18T16:45:00Z",
+  "on_work":     ["<photo id>", "..."],
+  "off_work":    ["<photo id>", "..."]
 }
 ```
 
 - `titles`: optional per photo; untitled photos show the date.
-- `order`: the main page order. Photos not listed yet come first.
-- `collections`: named series, each with its photos in order. A photo is in
-  at most one collection.
-- `highlights`: photos featured on the main page.
-- `tags`: the tag library. `photo_tags` may only use names from it.
-- `hidden` / `published` / `drafts_from`: what shows on the site. Photos
-  added to the album at or after `drafts_from` start hidden until released
-  (`published`); `hidden` pulls a photo back. Hidden photos are left off the
-  site but are not private (their image files still exist on it).
-- `locations`: one place per photo, at **city**, **region** (state) or
-  **country** level only, from the GeoNames list built into the editor
+- `order`: the **Work page** order. Photos not listed yet come first.
+- `collections`: named series, each with its photos in order (the first is
+  the cover on the Collections page). A photo is in at most one collection.
+- `highlights`: the **Home page** photos and slideshow, in this order.
+- `tags`: the tag library. `photo_tags` may only use names from it. Tags
+  are private: used for search-engine keywords, not shown on the page.
+- `locations`: one place per photo, at **town/island**, **region** (state)
+  or **country** level only, from the GeoNames list built into the editor
   (`gid` is the GeoNames id). Never coordinates.
+- **Show on site** (`hidden` / `published` / `drafts_from`): photos added to
+  the album from `drafts_from` until 2026-11-26 started hidden until
+  released (`published`). Since then the site is **site-first**: new photos
+  show right away. `hidden` pulls a photo back. Hidden photos are left off
+  the site but are not private (their image files still exist).
+- **On Work page** (`on_work` / `off_work`): photos added after 2026-11-26
+  are off the Work page's full list until ticked (`on_work`); `off_work`
+  takes a photo off. Photos off Work still show in their collection, as
+  highlights and on their share pages.
 
-The site reads this file live (changes show within ~5 minutes) and the
-nightly build bakes it in. Both treat it as untrusted: titles are cleaned and
-title-cased, unknown photo ids are ignored, and nothing is rendered as HTML.
+The site reads this file live (changes show within ~5 minutes) and every
+build (hourly when GitHub has capacity, or **Publish now** in the editor)
+bakes it in. Both treat it as untrusted: titles are cleaned and title-cased,
+unknown photo ids are ignored, and nothing is rendered as HTML.
