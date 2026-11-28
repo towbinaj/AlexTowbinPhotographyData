@@ -93,6 +93,7 @@
     "c85da69290db": "Fragments",
     "cf88dd5e7043": "Running on Empty",
     "d2635793a485": "Quietly Inhabited",
+    "d320dc6cdfd6": "Progress",
     "dbd66afa63e6": "Unknowable",
     "dc35b0b147ec": "Resilience",
     "ddef2e87b9d3": "Projected Opening",
@@ -2309,6 +2310,9 @@
       "Bicycle",
       "Street",
       "Graffiti"
+    ],
+    "d320dc6cdfd6": [
+      "Nature"
     ],
     "dbd66afa63e6": [
       "Door"
