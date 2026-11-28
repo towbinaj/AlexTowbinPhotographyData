@@ -13,6 +13,7 @@
     "3926d8032563": "Interrupted",
     "3a54b3dfef20": "Rebirth",
     "3e874f963204": "Braveheart",
+    "3fd3b14db796": "Power",
     "4017fe6a8cdf": "Passage",
     "41a84cd08c72": "Visual Entropy",
     "41e63d6bb9f6": "Half-Asleep",
@@ -1940,7 +1941,8 @@
     "Window",
     "Stairs",
     "Shadow",
-    "Door"
+    "Door",
+    "Nature"
   ],
   "photo_tags": {
     "008f5cc5e499": [
@@ -1991,6 +1993,9 @@
     ],
     "3e874f963204": [
       "Graffiti"
+    ],
+    "3fd3b14db796": [
+      "Nature"
     ],
     "4017fe6a8cdf": [
       "B&W",
