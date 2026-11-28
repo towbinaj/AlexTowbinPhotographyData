@@ -77,6 +77,7 @@
     "eaf47613060a": "Warning",
     "ee02af51af38": "This Way",
     "f0e5246a8a66": "Afterglow",
+    "f411752cefdd": "Patriot",
     "f98a9f4ed079": "Accumulated History",
     "feb5f7e8f278": "Psychological Weight"
   },
@@ -2225,6 +2226,11 @@
       "Graffiti",
       "Bicycle",
       "Decay"
+    ],
+    "f411752cefdd": [
+      "Decay",
+      "Street",
+      "Graffiti"
     ],
     "f98a9f4ed079": [
       "B&W",
