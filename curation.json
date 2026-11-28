@@ -11,6 +11,7 @@
     "15d03e55cbc4": "Remnants",
     "19b9671af6b9": "Temporary Architecture",
     "24baec42e02b": "Speed",
+    "2819fdc76f10": "Purpose",
     "2a20daaaef13": "Borders",
     "2fad6e0de709": "Aftermath",
     "305a74c9a3cd": "Collision",
@@ -2020,6 +2021,9 @@
     ],
     "24baec42e02b": [
       "Nature",
+      "Street"
+    ],
+    "2819fdc76f10": [
       "Street"
     ],
     "2a20daaaef13": [
