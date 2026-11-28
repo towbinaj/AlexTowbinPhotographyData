@@ -60,6 +60,7 @@
     "b4ab3930a275": "Movement and Moment",
     "b6f7ae2f6a4e": "Collision",
     "bd147080420f": "Industrial Tension",
+    "be2828d70101": "Neon Scream",
     "c1638699c4f4": "Diptych of Time",
     "c2a3d3511d78": "Overwhelming",
     "c2b2837d8d7e": "Towards",
@@ -2156,6 +2157,10 @@
     ],
     "bd147080420f": [
       "Door",
+      "Street"
+    ],
+    "be2828d70101": [
+      "Graffiti",
       "Street"
     ],
     "c1638699c4f4": [
