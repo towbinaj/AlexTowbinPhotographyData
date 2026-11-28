@@ -74,6 +74,7 @@
     "bd147080420f": "Industrial Tension",
     "be2828d70101": "Neon Scream",
     "c1638699c4f4": "Diptych of Time",
+    "c1b63b9b26c9": "Opening",
     "c2a3d3511d78": "Overwhelming",
     "c2b2837d8d7e": "Towards",
     "c63f487671d8": "Passerby",
@@ -2228,6 +2229,9 @@
     "c1638699c4f4": [
       "Graffiti",
       "Decay"
+    ],
+    "c1b63b9b26c9": [
+      "Nature"
     ],
     "c2a3d3511d78": [
       "Architecture"
