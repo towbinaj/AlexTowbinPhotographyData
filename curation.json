@@ -43,6 +43,7 @@
     "9bb00f100204": "Apart",
     "a23d298b91e1": "Uncertain Progression",
     "a9557ef56344": "Melancholic Endurance",
+    "a96feb6359b3": "Visual Monotony",
     "a9cc0f45b2e3": "Rectilinear Intrusion",
     "aad65cfe580b": "Possibility",
     "b091dcc3b2a2": "Equally Substantial",
@@ -2074,6 +2075,9 @@
       "Graffiti",
       "Street",
       "Decay"
+    ],
+    "a96feb6359b3": [
+      "Street"
     ],
     "a9cc0f45b2e3": [
       "Airport",
