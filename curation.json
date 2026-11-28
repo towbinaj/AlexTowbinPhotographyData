@@ -3,6 +3,7 @@
     "008f5cc5e499": "Quiet Transcendence",
     "071255aa4423": "In From the Cold",
     "09b6f2d1bd14": "Negotiating Escape",
+    "0b1674da6954": "Layered",
     "0e53943d5cc2": "Suspended Emotion",
     "0f436deb0770": "Chaos and Character",
     "0fa76a552e50": "Night Call",
@@ -1963,6 +1964,9 @@
     "09b6f2d1bd14": [
       "Stairs",
       "Architecture"
+    ],
+    "0b1674da6954": [
+      "Nature"
     ],
     "0e53943d5cc2": [
       "Graffiti"
