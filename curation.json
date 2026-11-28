@@ -11,6 +11,7 @@
     "1245df26c9db": "Tensions",
     "15d03e55cbc4": "Remnants",
     "19b9671af6b9": "Temporary Architecture",
+    "1f60af8db0ef": "Renew",
     "24baec42e02b": "Speed",
     "2819fdc76f10": "Purpose",
     "2a20daaaef13": "Borders",
@@ -2025,6 +2026,9 @@
     "19b9671af6b9": [
       "Architecture",
       "Shadow"
+    ],
+    "1f60af8db0ef": [
+      "Decay"
     ],
     "24baec42e02b": [
       "Nature",
