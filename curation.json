@@ -46,6 +46,7 @@
     "9a30c4e6fc95": "Strange Anonymity",
     "9bb00f100204": "Apart",
     "a23d298b91e1": "Uncertain Progression",
+    "a67be33a950f": "Evolution",
     "a9557ef56344": "Melancholic Endurance",
     "a96feb6359b3": "Visual Monotony",
     "a9cc0f45b2e3": "Rectilinear Intrusion",
@@ -2095,6 +2096,11 @@
       "Architecture",
       "Window",
       "Stairs"
+    ],
+    "a67be33a950f": [
+      "B&W",
+      "Door",
+      "Street"
     ],
     "a9557ef56344": [
       "Graffiti",
