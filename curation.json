@@ -11,6 +11,7 @@
     "3926d8032563": "Interrupted",
     "3a54b3dfef20": "Rebirth",
     "41e63d6bb9f6": "Half-Asleep",
+    "4228ce88fccf": "Structure Between Spaces",
     "43227ec7f860": "Persistence",
     "4880a14143ce": "Reality",
     "4a4f49903e7f": "Restricted / Invited",
@@ -1949,6 +1950,9 @@
       "Graffiti",
       "Street",
       "Decay"
+    ],
+    "4228ce88fccf": [
+      "Architecture"
     ],
     "43227ec7f860": [
       "B&W",
