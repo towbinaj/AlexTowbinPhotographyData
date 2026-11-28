@@ -76,6 +76,7 @@
     "e829de9da70d": "Everyday Rhyo",
     "eaf47613060a": "Warning",
     "ee02af51af38": "This Way",
+    "f0e5246a8a66": "Afterglow",
     "f98a9f4ed079": "Accumulated History",
     "feb5f7e8f278": "Psychological Weight"
   },
@@ -2219,6 +2220,11 @@
     "ee02af51af38": [
       "Bicycle",
       "Street"
+    ],
+    "f0e5246a8a66": [
+      "Graffiti",
+      "Bicycle",
+      "Decay"
     ],
     "f98a9f4ed079": [
       "B&W",
