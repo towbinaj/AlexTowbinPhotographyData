@@ -35,6 +35,7 @@
     "5369432f0c96": "Unexpected Departure",
     "55ec8efb1df4": "Alone",
     "57b1672e7ed1": "Competing Rhythm",
+    "57efc6c7db3d": "Palimpsest",
     "5afde3994812": "Quiet Pause",
     "5c92186e44ec": "Against the Procession",
     "5dc60cfa263e": "Confluence",
@@ -2094,6 +2095,11 @@
     ],
     "57b1672e7ed1": [
       "Architecture"
+    ],
+    "57efc6c7db3d": [
+      "Graffiti",
+      "Decay",
+      "Street"
     ],
     "5afde3994812": [
       "Street"
