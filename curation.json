@@ -7,6 +7,7 @@
     "0f436deb0770": "Chaos and Character",
     "15d03e55cbc4": "Remnants",
     "19b9671af6b9": "Temporary Architecture",
+    "305a74c9a3cd": "Collision",
     "312c0b3ffd54": "Momentary Relevance",
     "3926d8032563": "Interrupted",
     "3a54b3dfef20": "Rebirth",
@@ -1947,6 +1948,11 @@
     "19b9671af6b9": [
       "Architecture",
       "Shadow"
+    ],
+    "305a74c9a3cd": [
+      "Decay",
+      "Graffiti",
+      "Street"
     ],
     "312c0b3ffd54": [
       "Graffiti"
