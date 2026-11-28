@@ -36,6 +36,7 @@
     "9a30c4e6fc95": "Strange Anonymity",
     "9bb00f100204": "Apart",
     "a23d298b91e1": "Uncertain Progression",
+    "a9557ef56344": "Melancholic Endurance",
     "a9cc0f45b2e3": "Rectilinear Intrusion",
     "aad65cfe580b": "Possibility",
     "b091dcc3b2a2": "Equally Substantial",
@@ -2037,6 +2038,11 @@
       "Architecture",
       "Window",
       "Stairs"
+    ],
+    "a9557ef56344": [
+      "Graffiti",
+      "Street",
+      "Decay"
     ],
     "a9cc0f45b2e3": [
       "Airport",
