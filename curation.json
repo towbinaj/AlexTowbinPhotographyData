@@ -82,6 +82,7 @@
     "9bb00f100204": "Apart",
     "a0ed500427e8": "Consumer Culture",
     "a23d298b91e1": "Uncertain Progression",
+    "a4a8444ae3d7": "Floating",
     "a67be33a950f": "Evolution",
     "a7009b8674db": "Whisper",
     "a75ef5d4233f": "Elsewhere",
@@ -2287,6 +2288,9 @@
       "Architecture",
       "Window",
       "Stairs"
+    ],
+    "a4a8444ae3d7": [
+      "Nature"
     ],
     "a67be33a950f": [
       "B&W",
