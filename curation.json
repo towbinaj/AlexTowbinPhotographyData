@@ -91,6 +91,7 @@
     "c7a773a057a3": "Boundless",
     "c7f2acc7db5e": "Shine a Light",
     "c85da69290db": "Fragments",
+    "ce6dffa82108": "Quiet Stength",
     "cf88dd5e7043": "Running on Empty",
     "d2635793a485": "Quietly Inhabited",
     "d320dc6cdfd6": "Progress",
@@ -2301,6 +2302,10 @@
       "Decay",
       "Graffiti",
       "Street"
+    ],
+    "ce6dffa82108": [
+      "B&W",
+      "Nature"
     ],
     "cf88dd5e7043": [
       "B&W",
